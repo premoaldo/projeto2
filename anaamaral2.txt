@@ -1,0 +1,4 @@
+teste git
+
+Olá Ana!
+Passei por aqui para gerar um conflito contigo. Mas é puramente pedagógico. Gosto muito da nossa convivência em paz. :) 
